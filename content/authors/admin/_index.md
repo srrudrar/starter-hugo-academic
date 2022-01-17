@@ -1,12 +1,11 @@
 ---
 title: Srihita Rudraraju
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+role: PhD Candidate, Psychology, UCSD
+bio: building computational model to understand perception in the auditory system. Comp. neuroscience, machine learning, perception, animal cognition, sounds
+<!-- interests: -->
+<!--   - Artificial Intelligence -->
+<!--   - Computational Linguistics -->
+<!--   - Information Retrieval -->
 social:
   - icon: envelope
     icon_pack: fas
