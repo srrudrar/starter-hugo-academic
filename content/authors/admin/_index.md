@@ -2,10 +2,6 @@
 title: Srihita Rudraraju
 role: PhD Candidate, Psychology
 bio: building computational model to understand perception in the auditory system. Comp. neuroscience, machine learning, perception, animal cognition, sounds
-[interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval]
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,17 +21,6 @@ social:
 organizations:
   - name: UC San Diego
     url: https://www.https://psychology.ucsd.edu/
-[education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008]
 email: ""
 superuser: true
 highlight_name: true
