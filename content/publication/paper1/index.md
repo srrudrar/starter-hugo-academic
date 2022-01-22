@@ -2,7 +2,7 @@
 title: "Predictive coding in the primary and secondary auditory cortical neurons of songbirds."
 date: ""
 publishDate: "2017-01-01T00:00:00Z"
-authors: ["Srihita Rudraraju", "Bradley Theilman", "Michael Turvey", "Timothy Gentner"]
+authors: ["**Srihita Rudraraju**", "Bradley Theilman", "Michael Turvey", "Timothy Gentner"]
 publication_types: ["3"]
 abstract: ""
 publication: "in prep"
