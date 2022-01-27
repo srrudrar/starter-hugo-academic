@@ -1,8 +1,8 @@
 ---
 title: "Predictive Coding in Auditory Cortical Neurons of Songbirds"
 author: Srihita Rudraraju
-date: '2022-11-15'
-tags: ["predictive coding", "equity"]
+date: '2021-11-15'
+tags: ["predictive coding", "perception"]
 header:
   caption: ''
   image: ''
