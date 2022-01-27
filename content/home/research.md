@@ -1,7 +1,7 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -10,12 +10,13 @@ headless: true
 weight: 65
 
 title: research
-subtitle:
+subtitle: ''
 
 content:
-  # Page type to display. E.g. project.
-  page_type: research
-
+  # Filter on criteria
+  filters:
+    folders:
+      - research
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
   # Choose how many pages you would like to display (0 = all pages)
