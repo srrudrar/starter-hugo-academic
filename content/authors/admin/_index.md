@@ -5,7 +5,7 @@ bio: building computational model to understand perception in the auditory syste
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: 'mailto:srrudrar@eng.ucsd.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/sri_rudrar
